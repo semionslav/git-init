@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+html{
+    margin:0; padding: 0;
+}
+body{
+    color: bisque;
+    font: size 1.5em;
+    padding: 20px ;
+
+}
+.nav{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.4em;
+   background-color: rgb(163, 246, 19);
+
+}
+h1{
+    color: aqua;
+    font: size 2.5em;
+    text-align: center;
+}
+p{
+    color: red;
+    font-size: 1.2em;
+    text-align: justify;
+}
+. back {
+    font-size:1.5;
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+}
